@@ -2,7 +2,7 @@
 
 ## Learning Raku
 
-The [Resources](https://raku.org/resources/) page on [raku.org](https://raku.org/) contains a 'For Newcomers' section with a selection of useful material to get you up and running.
+The [learn](https://raku.org/learn) page on [raku.org](https://raku.org/) contains useful material to get you up and running.
 
 * [Raku Course](https://course.raku.org/)
 * [Raku Introduction](http://raku.guide/)
@@ -14,7 +14,7 @@ The [Resources](https://raku.org/resources/) page on [raku.org](https://raku.org
 * [Python](https://docs.raku.org/language/py-nutshell)
 * [Ruby](https://docs.raku.org/language/rb-nutshell)
 * [Haskell](https://docs.raku.org/language/haskell-to-p6)
-* [Perl 5](https://docs.raku.org/language/5to6-nutshell)
+* [Perl 5](https://docs.raku.org/language/perl-nutshell)
 
 ## For Curious Users
 
